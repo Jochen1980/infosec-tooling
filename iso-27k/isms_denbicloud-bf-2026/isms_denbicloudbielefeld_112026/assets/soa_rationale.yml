@@ -1,0 +1,95 @@
+A5.1: Die de.NBI Cloud Bielefeld hat eine Informationssicherheitsrichtlinie.
+A5.2: Die de.NBI Cloud Bielefeld definiert Informationssicherheitsrollen und -verantwortlichkeiten. Die Cloud betreibt hierbei Systeme und Technologien verschiedener Bereiche, dementsprechend müssen die Verantwortungen der Mitarbeitern mit den erforderlichen Kompetenzen festgelegt werden.
+A5.3: Die de.NBI Cloud Bielefeld überwacht Prozesse nach dem 4-Augen-Prinzip. Durch die Größe der Organisation ist eine strikte Aufgabentrennung nicht durchgängig realisierbar.
+A5.4: Die Leitung der de.NBI Cloud Bielefeld ist sich der Verantwortlichkeit gegenüber dem Personal bewusst. Es werden komplexe Systeme betrieben und sie muss sicherstellen, dass Beschäftigte sich der Informationssicherheit bewusst sind und entsprechende Kompetenzen besitzen.
+A5.5: Über den ISB besteht Kontakt zu Behörden. Da die Kontaktstellen oftmals autark voneinander arbeiten, ist der initiale Aufbau und die Pflege solcher Kontakte von großer Bedeutung.
+A5.6: Die Mitarbeiter de.NBI Cloud Bielefeld nehmen an Veranstaltungen zur IT-Sicherheit teil. Dies ist besonders im IT-Umfeld und insbesondere im Bereich des Cloud Computing von wesentlicher Bedeutung, da diese Technologie relativ neu ist und im IT-Bereich zunehmend an Bedeutung gewinnt.
+A5.7: Die de.NBI Cloud ist Bedrohungen im Kontext der Informationssicherheit ausgesetzt.
+A5.8: Die de.NBI Cloud Bielefeld betreibt Projektmanagement. Aufgrund der technischen Komplexität werden im Bereich des Cloud Computing immer wieder größere (Änderungs-)Projekte geplant. Hierbei können Informationssicherheitsziele aus dem Fokus geraten, daher muss das Projektmanagement dies berücksichtigen.
+A5.9: Die de.NBI Cloud inventarisiert Werte.
+A5.10: die de.NBI Cloud Bielefeld arbeitet mit Informationen und dazugehörigen Werten.
+A5.11: Die Rückgabe von Werten der de.NBI Cloud Bielefeld ist geregelt.
+A5.12: Die de.NBI Cloud Bielefeld klassifiziert und kennzeichnet Informationen. Aufgrund der Verwendung unterschiedlicher Arten von Informationen müssen klare Handhabungsregeln definiert sein.
+A5.13: Siehe A5.12
+A5.14: Die de.NBI Cloud Bielefeld überträgt Daten innerhalb ihrer Kommunikationseinrichtungen. Die de.NBI Cloud Bielefeld tauscht Geschäftsinformationen mit externen Parteien aus. Um die übertragenen Informationen zu schützen, müssen entsprechende Vereinbarungen definiert werden.
+A5.15: Der Zugang zur de.NBI Cloud Bielefeld ist gesteuert, da die informationsverarbeitenden Einrichtungen klassifizierte Informationen beinhalten, die einer entsprechenden Handhabung bedürfen.
+A5.16: Die de.NBI Cloud Bielefeld verwaltet Identitäten.
+A5.17: Die de.NBI Cloud Bielefeld nutzt Passwörter bzw. private Schlüssel sowie 2FA zur Authentisierung.
+A5.18: Die de.NBI Cloud Bielefeld nutzt eine Benutzerverwaltung, sodass nur authorisierte Personen Zugriff auf ihre zugeteilten Ressourcen haben.
+A5.19: Die de.NBI Cloud Bielefeld pflegt Lieferantenbeziehungen, über die schützenwerte Werte bezogen und administriert werden.
+A5.20: Siehe 5.19
+A5.21: Die de.NBI Cloud Bielefeld pflegt Lieferantenbeziehungen und der Umgang mit Informationssicherheitsrisiken muss mit den entsprechenden Parteien geklärt werden.
+A5.22: Die de.NBI Cloud Bielefeld pflegt Lieferantenbeziehungen, deren Dienstleistungen und Anforderungen sich ändern können.
+A5.23: Die de.NBI Cloud Bielefeld nutzt externe Cloud-Dienste.
+A5.24: Die Handhabung von Informationssicherheitsvorfällen ist durch eine IT-Sicherheitsleitlinie der Universität geregelt. Informationssicherheitsvorfälle können gehäuft im Zusammenhang mit Cloud-Computing auftreten, insbesondere da unsere Nutzer in der Regel unerfahrene IT-Nutzer sind.
+A5.25: Die de.NBI Cloud Bielefeld kann von Informationssicherheitsvorfällen betroffen sein.
+A5.26: Die Handhabung von Informationssicherheitsvorfällen ist durch eine IT-Sicherheitsleitlinie geregelt. Da die de.NBI Cloud Bielefeld anderen Parteien (BITS, DFN, usw.) Vorfälle mitteilen muss, ist es notwendig, diese zu dokumentieren.
+A5.27: Die Handhabung von Informationssicherheitsvorfällen ist durch eine IT-Sicherheitsleitlinie geregelt. Beispielsweise sind die Nutzer der Cloud teilweise unerfahren in Bezug auf IT-Sicherheit, daher sollten aufgetretene Vorfälle genutzt werden, um Nutzer bei der Verwendung der Cloud-Dienste auf etwaige Gefahren hinzuweisen. Gewonnene Erkenntnisse können zudem in die stetige Verbesserung der Sicherheit der Cloud einfließen und so Wiederholungsfälle vermeiden.
+A5.28: Die Services der de.NBI Cloud Bielefeld loggen Daten. Log-Daten sind bei Eintreten eines Sicherheitsvorfalls Beweismaterial.
+A5.29: Im Betrieb der de.NBI Cloud Bielefeld können Störungen auftreten.
+A5.30: Die de.NBI Cloud Bielefeld betreibt IKT.
+A5.31: Die de.NBI Cloud Bielefeld unterliegt rechtlichen, gesetzlichen, regulatorischen und vertraglichen Anforderungen.
+A5.32: Die de.NBI Cloud Bielefeld und in ihr verarbeitete Daten können geistiges Eigentum beinhalten.
+A5.33: Die de.NBI Cloud Bielefeld besitzt Aufzeichnungen.
+A5.34: Die de.NBI Cloud Bielefeld verarbeitet für den Betrieb personenbezogene Daten.
+A5.35: Die de.NBI Cloud Bielefeld überprüft regelmäßig die Informationssicherheit.
+A5.36: Die de.NBI Cloud Bielefeld betreibt Informationsicherheitsmanagement.
+A5.37: Die de.NBI Cloud Bielefeld hat Betriebsabläufe, die eine Dokumentation erfordern. Dies ist von entsprechender Wichtigkeit, da die Abläufe relativ komplex sein können und durch menschliche Fehler sonst die Informationssicherheit gefährdet werden könnte.
+
+A6.1: Es werden komplexe Systeme betrieben und daher muss sichergestellt werden, dass Beschäftigte sich der geforderten Informationssicherheit bewusst sind und entsprechende Kompetenzen besitzen.
+A6.2: Der Betrieb der de.NBI Cloud erfordert die Verteilung von Verantwortlichkeiten in Bezug auf Informationssicherheit.
+A6.3: Das Personal muss ein angemessenes Bewusstsein für Informationssicherheit besitzen.
+A6.4: Die Leitung der de.NBI Cloud Bielefeld muss Möglichkeiten zur Maßregelung besitzen.
+A6.5: Die Beendigung von Beschäftigungsverhältnissen ist geregelt. Da die Administratoren der de.NBI Cloud Bielefeld weitreichende administrative Befugnisse besitzen, müssen klare Prozesse definiert werden um die Interessen der Organisation (sowie die der Nutzer) schützen zu können.
+A6.6: Die de.NBI Cloud Bielefeld hat Vertraulichkeitsvereinbarungen mit externen Parteien.
+A6.7: Die Mitarbeiter der de.NBI Cloud Bielefeld können mobil arbeiten, daher bedarf es Richtlinien, welche die Informationssicherheit in Bezug auf Telearbeit schützen.
+A6.8: In einer öffentlich-erreichbaren Cloud können regelmäßig Informationssicherheitsereignisse auftreten, welche erheblichen Einfluss auf den Betrieb der de.NBI Cloud haben. Bei Erkennung solcher Ereignisse ist eine schnelle Meldung unerlässlich.
+A7.1: Die de.NBI Cloud Bielefeld betreibt Systeme, die sensible Informationen enthalten können und daher physischen Schutz benötigen.
+A7.2: Die de.NBI Cloud Bielefeld betreibt Systeme, die physischen Schutz vor Unbefugten benötigen. Die de.NBI Cloud Bielefeld hat keinen Anlieferungs- und Ladebereich.
+A7.3: Zu der de.NBI Cloud Bielefeld gehören Büros, Besprechungsräume und Serverräume.
+A7.4: Siehe 7.2
+A7.5: Die de.NBI Cloud Bielefeld ist externen und umweltbedingten Bedrohungen ausgesetzt.
+A7.6: Die de.NBI Cloud verfügt über Sicherheitsbereiche (Parzelle im Datacenter).
+A7.7: Die de.NBI Cloud Bielefeld stellt den Mitarbeitern eine Arbeitsumgebung zur Verfügung. Da diese Arbeitsumgebung nicht ausschließlich von Mitarbeitern betreten werden kann (beispielsweise auch durch Reinigungskräfte), muss die Arbeitsumgebung aufgeräumt sein und Informationen geschützt werden.
+A7.8: Die de.NBI Cloud Bielefeld betreibt eine IT-Hardware-Infrastruktur im Datacenter der Universität Bielefeld.
+A7.9: Die de.NBI Cloud Bielefeld stellt den Mitarbeitern Dienstgeräte zur Verfügung, die gesichert werden müssen.
+A7.10: Die de.NBI Cloud Bielefeld nutzt (Wechsel-)Datenträger.
+A7.11: Die de.NBI Cloud Bielefeld nutzt Versorgungsgeinrichtungen (USV, NEA, Klima, usw.) der Universität Bielefeld.
+A7.12: Die de.NBI Cloud Bielefeld betreibt eine umfangreiche IT-Hardware-Infrastruktur, welche durch eine komplexe Verkabelung, Netzwerk und Strom miteinander verbunden ist.
+A7.13: Die de.NBI Cloud Bielefeld betreibt eine umfangreiche IT-Hardware-Infrastruktur, welche für einen sicheren Betrieb entsprechend gewartet wird.
+A7.14: Die de.NBI Cloud Bielefeld betreibt Systeme, bei deren Wiederverwendung bzw. Entfernung Sorgfalt walten muss, insbesondere da diese klassifizierte Informationen beinhalten können.
+
+A8.1: Die Mitarbeiter der de.NBI Cloud Bielefeld haben Dienstnotebooks.
+A8.2: Siehe A5.18
+A8.3: Die de.NBI Cloud Bielefeld verwaltet Informationen.
+A8.4: Die de.NBI Cloud Bielefeld verwaltet Quellcode in Repositories.
+A8.5: Die de.NBI Cloud Bielefeld beschränkt den Zugang auf gewisse Informationen.
+A8.6: Die de.NBI Cloud Bielefeld verwaltet Cloud-Ressourcen, deren Kapazitäten zwecks kontinuierlichen Betriebs überwacht und gesteuert werden müssen.
+A8.7: Die de.NBI Cloud Bielefeld betreibt eine IT-Infrastruktur, welche vor Schadsoftware zu schützen ist.
+A8.8:
+A8.9: Die de.NBI Cloud Bielefeld verfügt über Hardware, Software, Dienste und Netzwerke, welche konfiguriert werden müssen.
+A8.10: Die de.NBI Cloud Bielefeld verarbeitet Informationen.
+A8.11: Siehe A8.10
+A8.12: Siehe A8.10
+A8.13: Die de.NBI Cloud Bielefeld umfasst Daten, deren Sicherung für den Betrieb notwendig ist.
+A8.14: Die de.NBI Cloud Bielefeld betreibt IT-Systeme.
+A8.15: Die de.NBI Cloud Bielefeld fertigt zur Wahrung der Systemsicherheit Ereignisprotokolle an, welche durch die hohe Anzahl von Komponenten in der IT-Infrastruktur unabdingbar sind.
+A8.16: Siehe A8.15.
+A8.17: Die de.NBI Cloud Bielefeld betreibt mehrere Host-Systeme, die im Verbund arbeiten. Einige Komponenten der IT-Infrastruktur arbeiten hierbei zeitkritisch (beispielsweise das Storage-System Ceph).
+A8.18: Die de.NBI Cloud Bielefeld verwendet Hilfsprogramme mit erhöhten Rechten.
+A8.19: Die de.NBI Cloud Bielefeld installiert Software auf Systemen im Betrieb.
+A8.20: Die de.NBI Cloud Bielefeld betreibt komplexe Computernetzwerke. Daher müssen Informationen innerhalb des Netzwerks entsprechend geschützt werden.
+A8.21: Die de.NBI Cloud Bielefeld betreibt Netzwerkdienste.
+A8.22: Die de.NBI Cloud Bielefeld betreibt Computernetzwerke für unterschiedliche Komponenten der IT-Infrastruktur. Um Schutzziele der Informationssicherheit einzuhalten müssen diese nach "state-of-the-art" separiert sein.
+A8.23: Das Personal hat Zugang zu externen Webseiten.
+A8.24: Die de.NBI Cloud Bielefeld nutzt angemessene kryptographische Maßnahmen zur Verschlüsselung. Als Betreiber einer öffentlich erreichbaren Cloud ist dies von fundamentaler Wichtigkeit um sämtliche gespeicherten (bzw. übertragenen) Informationen schützen zu können.
+A8.25: Die de.NBI Cloud Bielefeld entwickelt Software/Systeme. Die Entwicklung kann die Informationssicherheit gefährden.
+A8.26: Die de.NBI Cloud Bielefeld entwickelt und beschafft Anwendungen.
+A8.27: Die de.NBI Cloud Bielefeld betreibt sichere Systeme.
+A8.28: Im Zuge des Betriebs der de.NBI Cloud Bielefeld wird Software entwickelt.
+A8.29: Die de.NBI Cloud Bielefeld entwickelt/installiert/aktualisiert Software und Systeme. Neue Systeme durchlaufen einen Abnahmetest.
+A8.30: Die Mitarbeiter der de.NBI Cloud Bielefeld betreuen Bachelor- und Masterarbeiten. Die so ausgegliederten Entwicklungen können hierbei in den Produktionsbetrieb einfließen.
+A8.31: Die de.NBI Cloud Bielefeld betreibt Entwicklungs- sowie Produktionsumgebungen, die strikt getrennt werden müssen.
+A8.32: Die de.NBI Cloud Bielefeld hat Betriebsabläufe, die stetigen (teils komplexen) Änderungen unterliegen. Bei der hohen Serveranzahl muss dies kontrolliert und geregelt geschehen.
+A8.33: Die de.NBI Cloud Bielefeld verfügt über eine Testumgebung, in der Prüfdaten verwendet werden.
+A8.34: Die de.NBI Cloud Bielefeld führt Auditprüfungen durch.

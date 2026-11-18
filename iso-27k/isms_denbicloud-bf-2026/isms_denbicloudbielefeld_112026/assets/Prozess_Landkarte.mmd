@@ -1,0 +1,36 @@
+flowchart TD
+    classDef v stroke:#000,stroke-width:5px
+    classDef w stroke:#000,stroke-width:2px
+    classDef x stroke:#d00
+    classDef y stroke:#0d0
+    classDef z stroke:#00d
+    classDef x3 stroke:#d00,stroke-width:3px
+    classDef y3 stroke:#0d0,stroke-width:3px
+    classDef z3 stroke:#00d,stroke-width:3px
+    %%Q[Interne Services]:::w
+    A[Bereitstellung von Cloud-Ressourcen]:::v
+    B[Betrieb]:::x3 --> A
+    C[Ressourcen]:::x --> B
+    D[Personal]:::w
+    E[Hardware]:::x --> C
+    F[Software]:::x --> C
+    %%G[BRF] --> D
+    %%H[ADM] --> D
+    D -.->|pflegt| E
+    D -.->|pflegt| J
+    D -.->|betreibt| F
+    I[ISMS]:::y3 --> A
+    J[Risikomanagement]:::y --> I
+    K[IT-Verfahren]:::y --> I
+    D -.->|nutzt| K
+    L[Richtlinien]:::y --> I
+    Q[Fortbildungen]:::y --> I
+    D -.->|befolgt| L
+    M[Kundensupport]:::z3 --> A
+    N[Nutzeranfragen]:::z --> M
+    D -.->|bearbeitet| N
+    O[Schulungen]:::z --> M
+    D -.->|führt durch| O
+    P[Leitung]:::w -.->|prüft| I
+    P -.->|delegiert| D
+    D -.->|besucht| Q
