@@ -246,4 +246,337 @@ D) Wenn mindestens 80 % der identifizierten Risiken durch geeignete Maßnahmen b
 
 Antwort: A.
 
+#### Frage 4.13:
+
+Wobei handelt es sich nicht um einen relevanten Aspekt der Informationssicherheitsrisikobehandlung gemäß DIN EN ISO/IEC 27001?
+
+A) Auswahl angemessener Optionen für die Risikobehandlung.
+B) Erstellung einer Erklärung zur Anwendbarkeit.
+C) Löschen von Restrisiken auf Basis der Risikokriterien.
+D) Erstellung eines Risikobehandlungsplans.
+
+Antwort: C. (Restrisiken werden vom Owner genehmigt oder akzeptiert)
+
+#### Frage 4.14:
+
+Wie definiert ISO/IEC 27000 den Begriff Risikoanalyse?
+
+A) Koordinierte Aktivitäten zur Leitung und Kontrolle einer Organisation in Bezug auf Risiken.
+B) Prozess für die Auswahl von Maßnahmen zur Behandlung identifizierter Risiken.
+C) Festlegungen, um die Signifikanz eines Risikos zu bewerten.
+D) Prozess, um die Beschaffenheit eines Risikos zu verstehen und das Risikoniveau zu bestimmen.
+
+Antwort: D.
+
+A) beschreibt das Risikomanagement (risk management).
+B) beschreibt die Risikobehandlung (risk treatment).
+C) beschreibt die Risikokriterien (risk criteria).
+
+#### Frage 4.15:
+
+Welche der folgenden Tätigkeiten ist keine von DIN EN ISO/IEC 27001 geforderte Verpflichtung des Managements?
+
+A) Sicherstellung, dass interne ISMS-Audits durchgeführt werden.
+B) Bestimmung der Aufgaben und Verantwortlichkeiten für Informationssicherheit.
+C) Lenkung von Dokumenten und Aufzeichnungen.
+D) Festlegen der ISMS-Leitlinie.
+
+Antwort: C. (Lenkung der Dokumente macht wer anders.)
+
+#### Frage 4.16:
+
+Welche Arten von Audits sind in der Regel nach DIN EN ISO/IEC 27001 zu unterscheiden?
+
+A) Vollständige und unvollständige.
+B) Interne und externe.
+C) Objektive und subjektive.
+D) Angekündigte und unangekündigte.
+
+Antwort: B.
+
+#### Frage 4.17:
+
+Im Verlauf der Festlegung des ISMS sind nach DIN EN ISO/IEC 27001 die Definition der ISMS-Leitlinie und der Vorgehensweise zur Risikoeinschätzung zu erstellen. Welcher Schritt muss nach DIN EN ISO/IEC 27001 bereits zuvor erfolgt sein?
+
+A) Das Budget für das ISMS-Vorhaben muss geklärt werden.
+B) Das Management muss die Umsetzung und Durchführung des ISMS genehmigen.
+C) Im Rahmen eines Audits müssen Verbesserungsmöglichkeiten identifiziert werden.
+D) Der Anwendungsbereich (Scope) des ISMS muss festgelegt werden.
+
+Antwort: D. (die ISO hat eine Reihenfolge, die Kapitel und die anderen kommen erst danach)
+
+#### Frage 4.18:
+
+Welche Aufgabe hat ein Risikoeigentümer im Hinblick auf die Informationssicherheitsrisikobehandlung?
+
+A) Der Risikoeigentümer muss alle Restrisiken identifizieren und beseitigen.
+B) Der Risikoeigentümer muss den vorgeschlagenen Restrisiken zustimmen.
+C) Der Risikoeigentümer ist für die (technische) Umsetzung der Maßnahmen zur Risikobehandlung zuständig.
+D) Der Risikoeigentümer dokumentiert die Risiken in den internen Auditberichten.
+
+Antwort: B.
+
+Begründung gemäß DIN EN ISO/IEC 27001 (Abschnitt 6.1.3 f):
+
+Die Norm fordert explizit, dass die Organisation die Zustimmung (Freigabe/Akzeptanz) der Risikoeigentümer zum Risikobehandlungsplan und zu den verbleibenden Informationssicherheits-Restrisiken einholen muss.
+Zu A: Restrisiken lassen sich fast nie vollständig (auf null) beseitigen – sie müssen auf ein akzeptables Maß reduziert und dann vom Risikoeigentümer getragen/akzeptiert werden.
+Zu C: Der Risikoeigentümer trägt die Verantwortung (Rechenschaftspflicht) für das Risiko und entscheidet über die Behandlung, führt die technische Umsetzung der Maßnahmen aber in der Regel nicht selbst durch (das machen z. B. IT-Administratoren oder Fachabteilungen).
+Zu D: Interne Auditberichte werden von unabhängigen internen Auditoren erstellt, nicht vom Risikoeigentümer.
+
+#### Frage 4.19:
+
+Welcher Schritt gehört nicht zur Beurteilung von Informationssicherheitsrisiken?
+
+A) Identifizierung der Risiken und zugehörigen Risiokoeigentümer.
+B) Analyse der Risiken einschließlich Bestimmung der Risikoniveaus.
+C) Bewertung der Risiken einschließlich Priorisierung für die Risikobehandlung.
+D) Festlegung der Maßnahmen zur Risikobehandlung.
+
+Antwort: D
+
+#### Frage 4.20:
+
+Worauf ist im Zusammenhang mit internen Audits des ISMS zu achten?
+
+A) Dass in jedem internen Audit alle Anforderungen der Norm DIN EN ISO/IEC 27001 vollumfänglich geprüft werden.
+B) Dass die Ergebnisse der Audits gegenüber der zuständigen Leitung berichtet werden.
+C) Dass die Auditkriterien im Vorfeld gegenüber den auditierten Personen und Bereichen nicht offengelegt werden.
+D) Dass als Auditoren nur Personen ausgewählt werden, die selbst in dem auditierten Bereich tätig sind.
+
+Antwort: B.
+
+#### Frage 4.21:
+
+Wobei handelt es sich nicht um eine Aktivität, die gemäß DIN EN ISO/IEC 27001 umgesetzt werden muss, um ein ISMS zu planen oder zu betreiben?
+
+A) Bestimmung von Chancen und Risiken in Verbindung mit dem ISMS.
+B) Festlegung von Informationssicherheitszielen.
+C) Etablierung eines Prozesses zur Ermittlung der Mitarbeiterzufriedenheit in Bezug auf die festgelegten Sicherheitsrichtlinien.
+D) Erstellung einer Erklärung zur Anwendbarkeit des ISMS.
+
+Antwort: C.
+
+#### Frage 5.22:
+
+Durch welche Maßnahme gemäß Anhang A aus DIN EN ISO/IEC 27001 wird am ehesten vermieden, dass beispielsweise Entwickler von Software versehentlich oder absichtlich produktive Systeme kompromittieren?
+
+A) Sichere Authentisierung
+B) Redundanz von informationsverarbeitenden Einrichtungen
+C) Trennung von Netzwerken
+D) Trennung von Entwicklungs-, Test- und Produktivumgebungen
+
+Antwort: D.
+
+#### Frage 5.23:
+
+Welche der folgenden Aspekte und Anforderungen sind im Zusammenhang mit Betriebsmitteln und unterstützenden Versorgungseinrichtungen nicht Teil der Maßnahmen zur physischen Sicherheit gemäß Abschnitt A.7 in DIN EN ISO/IEC 27001?
+
+A) Betriebsmittel müssen sicher und geschützt platziert werden.
+B) Die Konfigurationen, einschließlich der Sicherheitskonfigurationen, von Hardware, Software, Diensten und Netzwerken müssen festgelegt, dokumentiert, umgesetzt, überwacht und überprüft werden.
+C) Kabel zur Stromversorgung, Datenübertragung oder Anbindung an Informationsdienste müssen vor Abhören, Manipulation oder Beschädigung geschützt werden.
+D) Betriebsmittel müssen sachgerecht gewartet werden, um die Verfügbarkeit, Integrität und Vertraulichkeit von Informationen zu gewährleisten.
+
+Antwort: B.
+
+#### Frage 5.24:
+
+Was muss gemäß Maßnahme A.6.5 aus DIN EN ISO/IEC 27001 im Zusammenhang mit Beendigung oder Wechsel des Beschäftigungsverhältnisses festgelegt werden?
+
+A) Kennungen der Nutzerendgeräte, die nach Beendigung oder Wechsel des Beschäftigungsverhältnisses zurückgegeben werden müssen
+B) Verantwortlichkeiten und Pflichten im Zusammenhang mit der Informationssicherheit, die nach Beendigung oder Wechsel des Beschäftigungsverhältnisses fortbestehen
+C) Verträge, die nach Beendigung oder Wechsel des Beschäftigungsverhältnisses neu ausgehandelt werden müssen
+D) Gültigkeitsdauer von digitalen Identitäten, Benutzerkennungen und Zertifikaten, die auch nach Beendigung oder Wechsel des Beschäftigungsverhältnisses noch verwendet werden
+
+Antwort: B.
+
+#### Frage 5.25:
+
+Wobei handelt es sich um eine technologische Maßnahme gemäß DIN EN ISO/IEC 27001, Anhang A.8?
+
+A) Aufgabentrennung
+B) Sicherheitsüberprüfung
+C) Sicherung von Informationen
+D) Remote-Arbeit
+
+Antwort: C.
+
+#### Frage 5.26:
+
+Was ist Gegenstand der Maßnahme Überwachung von Aktivitäten (A.8.16) gemäß Anhang A in DIN EN ISO/IEC 27001?
+
+A) Überwachung des Personals im Hinblick auf vorsätzliche Verletzungen der Informationssicherheit
+B) Überwachung des Umsetzungsstands von Maßnahmen zur Risikobehandlung
+C) Überwachung von Netzwerken, Systemen und Anwendungen im Hinblick auf Anomalien
+D) Überwachung von Sicherheitsbereichen mithilfe von Videokameras
+
+Antwort: C.
+
+#### Frage 5.27:
+
+Wobei handelt es sich um eine organisatorische Maßnahme gemäß DIN EN ISO/IEC 27001, Anhang A.5?
+
+A) Aufgeräumter Schreibtisch und Gerätesperre
+B) Schutz vor Schadsoftware
+C) Reaktion auf Informationssicherheitsvorfälle
+D) Einsatz von Kryptographie
+
+Antwort: C.
+
+#### Frage 5.28: 
+
+Wodurch muss eine übergeordnete Informationssicherheitsrichtlinie gemäß der Maßnahme A.5.1. aus DIN EN ISO/IEC 27001 ergänzt werden?
+
+A) Durch den Risikobehandlungsplan
+B) Durch eine Erklärung zur Anwendbarkeit der Richtlinie
+C) Durch themenspezifische Informationssicherheitsrichtlinien
+D) Durch eine validierte Kostenplanung
+
+Antwort: C.
+
+#### Frage 5.29:
+
+Welche Schutzziele müssen bei der Klassifizierung von Informationen gemäß Anhang A.5.12 aus DIN EN ISO/IEC 27001 berücksichtigt werden?
+
+A) Keine, da die Organisation selbst festlegen kann, auf welcher Grundlage Informationen klassifiziert werden
+B) Nur Vertraulichkeit und Verfügbarkeit
+C) Nur Vertraulichkeit und Integrität
+D) Vertraulichkeit, Integrität und Verfügbarkeit
+
+Antwort: D.
+
+#### Frage 5.30:
+
+Wobei handelt es sich nicht um eine der Maßnahmen, die DIN EN ISO/IEC 27001 im Anhang A im Zusammenhang mit Informationssicherheitsvorfällen fordert?
+
+A) Planung und Vorbereitung des Managements von Informationssicherheitsvorfällen
+B) Reaktion auf Informationssicherheitsvorfälle
+C) Analyse von Informationssicherheitsvorfällen durch unabhängige externe Forensik-Dienstleister
+D) Lernen aus Informationssicherheitsvorfällen
+
+Antwort: C.
+
+#### Frage 5.31:
+
+Was ist kein geforderter Bestandteil der Maßnahme A.8.13 (Sicherung von Informationen) gemäß DIN EN ISO/IEC 27001, Anhang A?
+
+A) Vorhalten von Sicherungskopien von Informationen
+B) Vorhalten von Sicherungskopien von Software und Systemen
+C) Regelmäßiges Testen der Sicherungskopien
+D) Hinreichend redundante Auslegung informationsverarbeitender Systeme
+
+Antwort: D.
+
+#### Frage 5.32:
+
+Was ist neben Regeln für den wirksamen Einsatz von Kryptographie ebenfalls Gegenstand der Maßnahme Verwendung von Kryptographie (A.8.24) gemäß Anhang A in DIN EN ISO/IEC 27001?
+
+A) Löschung unverschlüsselter Aufzeichnungen zu Transaktionen
+B) Penetrationstests der eingesetzten Verschlüsselungstechniken
+C) Verwaltung kryptographischer Schlüssel
+D) Filterung des Netzverkehrs über einen Proxy
+
+Antwort: C.
+
+#### Frage 6.33:
+
+Wie hängen die drei Standards ISO 9000, ISO/IEC 20000 und ISO/IEC 27001 zusammen?
+
+A) ISO/IEC 27001 ist eine Kombination aus ISO 9000 und ISO/IEC 20000.
+B) Diese drei Normen behandeln Managementsysteme in zum Teil überlappenden Anwendungsbereichen.
+C) Diese drei Normen behandeln Management und Qualitätssicherung für drei unterschiedliche Branchen.
+D) Die Zertifizierungen für diese Standards bauen aufeinander auf, d. h. eine Zertifizierung nach ISO/IEC 27001 ist nur möglich, wenn das Unternehmen auch nach ISO 9000 zertifiziert wurde.
+
+Antwort: B.
+
+#### Frage 6.34:
+
+Mit welchem Themengebiet befasst sich die Norm ISO 9000 schwerpunktmäßig?
+
+A) Bewertung der Informationssicherheit
+B) Informationssicherheitsleitlinie
+C) IT-Service-Management
+D) Qualitätsmanagement
+
+Antwort: D.
+
+#### Frage 6.35:
+
+Welcher der nachfolgend genannten Standards behandelt nicht den Themenbereich IT- oder Informationssicherheit?
+
+A) ISO/IEC 15408
+B) ISO/IEC 20000
+C) ISO/IEC 27000
+D) ISO 9000
+
+Antwort: D.
+
+#### Frage 6.36:
+
+Welche Organisation ist Herausgeber des IT-Grundschutz-Kompendiums?
+
+A) IT-Sicherheitscluster e.V.
+B) National Institute of Standards and Technology (NIST)
+C) International Electrotechnical Commission (IEC)
+D) Deutsches Bundesamt für Sicherheit in der Informationstechnik (BSI)
+
+Antwort: D.
+
+#### Frage 6.37:
+
+Zu welchem Zweck wurde die Normenreihe ISO/IEC 15408 (Common Criteria)
+entwickelt?
+
+A) ISO/IEC 15408 definiert ein formales Verfahren zur Bewertung von Sicherheitseigenschaften von IT-Produkten.
+B) Die Common Criteria enthalten Kriterien, die es bei der Speicherung von Logdaten zu berücksichtigen gilt.
+C) Die Normenreihe ISO/IEC 15408 wurde entwickelt zur Bewertung der Netzsicherheit und enthält eine dafür geeignete Sammlung von Evaluationskriterien.
+D) ISO/IEC 15408 definiert ein international anerkanntes Format für die Beschreibung von sicherheitsrelevanten Ereignissen.
+
+Antwort: A.
+
+#### Frage 6.38:
+
+Welche Aussage zur Standardfamilie ISO/IEC 20000 trifft zu?
+
+A) ISO/IEC 20000-1 definiert Anforderungen an ein Service-Management-System (SMS).
+B) Die Bewertung der Informationssicherheit ist das maßgebliche Ziel, das ISO/IEC 20000-2 verfolgt.
+C) ISO/IEC 20000-3 steht in direkter Konkurrenz zu ISO/IEC 27000, da die beiden Standards das gleiche Ziel des Managements der Informationssicherheit verfolgen.
+D) ISO/IEC 20001 legt Anforderungen für ISMS-Konformitätsbewertungsstellen fest.
+
+Antwort: A. 
+
+#### Frage 7.39:
+
+Was lässt sich nach ISO/IEC 27001 zertifizieren?
+
+A) Ein durch eine Organisation betriebenes ISMS.
+B) Nichts – ISO/IEC 27001 ist informativ und lässt sich nicht zertifizieren.
+C) Sicherheit von Infrastruktur-Komponenten, wie Server.
+D) Schutz von Daten in Clouddiensten.
+
+Antwort: A.
+
+#### Frage 7.40:
+
+Welcher Schritt gehört nicht zu einem typischen Ablauf eines Zertifizierungsaudits nach ISO/IEC 27001?
+
+A) Prüfung von Unterlagen bzw. Dokumentation.
+B) Personenzertifizierung des Managements.
+C) Vor-Ort-Audit.
+D) Erstellung und Verteilung eines Auditberichts.
+
+Antwort: B. 
+
+#### Fragen an Jan
+
+- Wo stehen bei dir die interessierten Parteien?
+- Wo ist der ISB benannt? 
+- Warum ist das Organigramm nicht abgebildet in der Security Leitlinie? 
+- Wo sind die Risiken entsprechend beschrieben und in die Risikomatrix eingereiht, also der Wert? 
+- Welcher Thread-katalog wurde genutzt, um die Risiken zu identifizieren? 
+- Ich sehe, dass die SOA der ISO-27001-Anhang normalerweise entsprechen kann.
+- Wo sind die Risikoszenarien gelistet? Wo erfolgt der Einbau? 
+
+
+
+
 ### Pruefungsfragen Kurs FZJ
